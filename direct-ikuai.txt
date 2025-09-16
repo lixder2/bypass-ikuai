@@ -49,3 +49,5 @@ stun.hot-chilli.net
 stun.fitauto.ru
 stun.miwifi.com
 #by.Missing_Love.end.ooooooooooooooooooooooooooooooo
+#群晖直连
+global.synologydownload.com
