@@ -51,3 +51,9 @@ stun.miwifi.com
 #by.Missing_Love.end.ooooooooooooooooooooooooooooooo
 #群晖直连
 global.synologydownload.com
+checkip.synology.com
+packages.synocommunity.com
+account.synology.com
+pkgupdate7.synology.com
+pkgautoupdate7.synology.com
+checkip.synology.com
